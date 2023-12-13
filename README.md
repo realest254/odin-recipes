@@ -1,1 +1,2 @@
 # odin-recipes
+At the end of this project by creating a webpage and linking it to other sites, i have learnt how to structure a basic webpage,use links to link to pages in the main webpage,add pictures and size them and use the command line and git.
